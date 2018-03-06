@@ -1,1 +1,38 @@
+body {
+    background-image: url("musical.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.space {
+    padding-bottom: 50px;
+}
+
+.ispace {
+    padding-bottom: 25px;
+}
+
+.line {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 0px;
+    border-bottom: 1px;
+    border-bottom-style: dashed;
+    border-color: white;
+}
+.songs {
+    color: white;
+}
+.image {
+    max-height: 120px;
+}
+.header {
+    color: white;
+    padding-bottom: 30px;
+}
+.tspace {
+    font-family: italic;
+    padding-top: 20px;
+}
+
 
